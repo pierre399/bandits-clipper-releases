@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "bandits-clipper@wearebandits.love": {
+      "updates": [
+        {
+          "version": "1.0.1",
+          "update_link": "https://pierre399.github.io/bandits-clipper-releases/bandits-clipper-1.0.1.xpi"
+        }
+      ]
+    }
+  }
+}

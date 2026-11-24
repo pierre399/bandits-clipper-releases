@@ -25,6 +25,10 @@
         {
           "version": "1.0.6",
           "update_link": "https://pierre399.github.io/bandits-clipper-releases/bandits-clipper-1.0.6.xpi"
+        },
+        {
+          "version": "1.0.7",
+          "update_link": "https://pierre399.github.io/bandits-clipper-releases/bandits-clipper-1.0.7.xpi"
         }
       ]
     }
